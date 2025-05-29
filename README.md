@@ -1,5 +1,5 @@
 # React Movie App
-Demo: https://cornflowerblue-jellyfish-576959.hostingersite.com/
+**Demo:** https://cornflowerblue-jellyfish-576959.hostingersite.com/
 
 This is a React app built with Vite that allows users to browse and search movies using live data from the TMDB API. The app displays popular, trending, and top-rated movies with posters, titles, and ratings.
 
